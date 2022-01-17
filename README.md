@@ -1,4 +1,9 @@
-### Hi there 👋
+![kotashimomura](https://road-to-kaggle-grandmaster.vercel.app/api/simple/kotashimomura)  
+
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/kotashimomura/competition)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/kotashimomura/dataset)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/kotashimomura/notebook)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/kotashimomura/discussion)
 
 <!--
 **KotaShimomura/KotaShimomura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
