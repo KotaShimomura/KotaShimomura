@@ -1,14 +1,21 @@
+I'm doing graduate research in ComputerVision.  
+Mainly research on automated driving, including segmentation and depth estimation.
+
+I also participate in competitions such as kaggle as a hobby.
+
+
 ![kotashimomura](https://road-to-kaggle-grandmaster.vercel.app/api/simple/kotashimomura)  
 
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/kotashimomura/competition)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/kotashimomura/dataset)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/kotashimomura/notebook)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/kotashimomura/discussion)
+
 
 <!--
 **KotaShimomura/KotaShimomura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/kotashimomura/dataset)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/kotashimomura/notebook)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/kotashimomura/discussion)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
