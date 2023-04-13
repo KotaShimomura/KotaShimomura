@@ -1,5 +1,5 @@
-I'm doing graduate research in ComputerVision.  
-Mainly research on automated driving, including segmentation and depth estimation.
+I'm a graduate student doing research in computer vision.
+Mainly research on autonomous driving, including segmentation and depth estimation.
 
 I also participate in competitions such as kaggle as a hobby.
 
