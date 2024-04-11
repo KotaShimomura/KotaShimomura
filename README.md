@@ -1,5 +1,5 @@
-I'm a graduate student doing research in computer vision.
-Mainly research on autonomous driving, including segmentation and depth estimation.
+I'm a P.hD. student doing research in Computer Vision and Vision & Language.
+Mainly research on autonomous driving, including Autonomous Driving..
 
 I also participate in competitions such as kaggle as a hobby.
 
