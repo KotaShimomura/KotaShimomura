@@ -1,8 +1,7 @@
 I'm a P.hD. student doing research in Computer Vision and Vision & Language.
-Mainly research on autonomous driving, including Autonomous Driving..
+Mainly research on safe autonomous driving. 
 
 I also participate in competitions such as kaggle as a hobby.
-
 
 ![kotashimomura](https://road-to-kaggle-grandmaster.vercel.app/api/simple/kotashimomura)  
 
